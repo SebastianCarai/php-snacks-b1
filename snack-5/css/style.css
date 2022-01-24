@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.teachers{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.pm{
+    padding: 10px;
+    border: 1px solid green;
+}
